@@ -1,0 +1,10 @@
+export enum Action {
+    EXIT,
+    INPUT,
+    REMOVE,
+    TOTAL_SALARY,
+    MANAGER_ENOUGH_TEAM,
+    MANAGER_CROWED_TEAM,
+    SUM_EMPLOYEES,
+    ALL_MEMBERS,
+}
